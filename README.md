@@ -41,7 +41,7 @@
 </div>
 
 
-![snake gif](https://github.com/askovie/askovie/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
