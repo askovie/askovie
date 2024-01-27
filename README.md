@@ -42,15 +42,6 @@
 
 
 
-<pictures>
-<source media="(prefers-color-scgeme:dark)"
-srcet="https://raw.githubusercontent.com/askovie/askovie/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/askovie/askovie/output/github-contribuition-grid-snake.svg">
-<img alt="github contribuition grid snake animation"
-srcset="https://raw.githubusercontent.com/askovie/askovie/output/github-contribuition-grid-snake.svg">
-</picture>
 
-_generated with [Platane/snk](https://github.com/Planet/snk)
 
 
